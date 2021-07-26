@@ -2,11 +2,11 @@
  **************************************************
  *
  * @file        Template for attiny_firmware
- * @brief       Fill in sensor specific code.
+ * @brief       Fill in OLED_Display specific code.
  *
 
  *
- * @authors     @ soldered.com
+ * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
 
 #include "easyC.h"
