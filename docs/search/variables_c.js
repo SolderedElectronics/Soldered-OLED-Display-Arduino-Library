@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vccstate_154',['vccstate',['../class_adafruit___s_s_d1306.html#ae0654c81bed89b9b1eaa8061c1b200cf',1,'Adafruit_SSD1306']]]
+  ['native_808',['native',['../class_easy_c.html#abb766b60f26778dbc64e8792fd754729',1,'EasyC']]]
 ];

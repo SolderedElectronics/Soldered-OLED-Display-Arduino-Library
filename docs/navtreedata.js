@@ -24,8 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+  [ "128x64 EasyC OLED Display", "index.html", [
+    [ "OLED Display Arduino library", "index.html", null ],
+    [ "A short guide to use fontconvert.c to create your own fonts using MinGW.", "md_src_libs__adafruit__g_f_x__library_fontconvert_fontconvert_win.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -39,8 +40,8 @@ var NAVTREE =
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
@@ -48,8 +49,11 @@ var NAVTREE =
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
-        [ "Typedefs", "globals_type.html", null ]
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ]
       ] ]
     ] ]
   ] ]
@@ -57,7 +61,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_adafruit___s_s_d1306_8cpp.html"
+"_adafruit___bus_i_o___register_8cpp.html",
+"class_adafruit___bus_i_o___register_bits.html#a369a5c8d03df7da82f8f46f00bd73855",
+"class_adafruit___s_p_i_t_f_t.html#a88f3c607cb9a5bd1d7f55881a1f3dc95",
+"make__splash_8py.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

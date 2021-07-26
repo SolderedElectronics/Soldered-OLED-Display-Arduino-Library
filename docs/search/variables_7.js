@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['mosipin_143',['mosiPin',['../class_adafruit___s_s_d1306.html#a6cb1a45ae527d3b5aaf4777d572e103c',1,'Adafruit_SSD1306']]],
-  ['mosipinmask_144',['mosiPinMask',['../class_adafruit___s_s_d1306.html#a6142fc4c3590c02e136071650dd331ef',1,'Adafruit_SSD1306']]],
-  ['mosiport_145',['mosiPort',['../class_adafruit___s_s_d1306.html#a259e1817bc4b205d247a3a195466a974',1,'Adafruit_SSD1306']]]
+  ['gclk_779',['gclk',['../_adafruit___s_p_i_t_f_t_8cpp.html#a9a0698bf640029e9585b1b36a1edd716',1,'Adafruit_SPITFT.cpp']]],
+  ['gfxclrbit_780',['GFXclrBit',['../class_g_f_xcanvas1.html#ad401abcfb5ce8f69f3245185af20bbda',1,'GFXcanvas1']]],
+  ['gfxfont_781',['gfxFont',['../class_adafruit___g_f_x.html#afeb94c3253f43dada05e1270e322fa06',1,'Adafruit_GFX']]],
+  ['gfxsetbit_782',['GFXsetBit',['../class_g_f_xcanvas1.html#a8424772ba222a7c28992c43934213449',1,'GFXcanvas1']]],
+  ['glyph_783',['glyph',['../struct_g_f_xfont.html#af63d88fa053c9a634e86eab7c96db290',1,'GFXfont']]]
 ];

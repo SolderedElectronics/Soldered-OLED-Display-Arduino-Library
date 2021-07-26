@@ -1,15 +1,9 @@
 var searchData=
 [
-  ['sendaddress_111',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_112',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_113',['Sensor',['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor']]],
-  ['spiwrite_114',['SPIwrite',['../class_adafruit___s_s_d1306.html#af4b9c3a9c3e93ac9c746bb99e9c35188',1,'Adafruit_SSD1306']]],
-  ['ssd1306_5fcommand_115',['ssd1306_command',['../class_adafruit___s_s_d1306.html#a99182555a08549492f6c40ceea0abc3d',1,'Adafruit_SSD1306']]],
-  ['ssd1306_5fcommand1_116',['ssd1306_command1',['../class_adafruit___s_s_d1306.html#a018550c5b9f0463cb7cd2a74efa4ee48',1,'Adafruit_SSD1306']]],
-  ['ssd1306_5fcommandlist_117',['ssd1306_commandList',['../class_adafruit___s_s_d1306.html#a799f35d2b93cb7a84840a94da69259be',1,'Adafruit_SSD1306']]],
-  ['startscrolldiagleft_118',['startscrolldiagleft',['../class_adafruit___s_s_d1306.html#a8d5b19419f508e5133053fa39da10f98',1,'Adafruit_SSD1306']]],
-  ['startscrolldiagright_119',['startscrolldiagright',['../class_adafruit___s_s_d1306.html#adbc9f95bb91eb0e76c4465d3c4d941e1',1,'Adafruit_SSD1306']]],
-  ['startscrollleft_120',['startscrollleft',['../class_adafruit___s_s_d1306.html#a4c58c2a4ac905e199d6ced49a0098296',1,'Adafruit_SSD1306']]],
-  ['startscrollright_121',['startscrollright',['../class_adafruit___s_s_d1306.html#a6a9f18f43c19296dc54dfb657eab4d66',1,'Adafruit_SSD1306']]],
-  ['stopscroll_122',['stopscroll',['../class_adafruit___s_s_d1306.html#ab4559d6aae71a4de8969f9160a6eda40',1,'Adafruit_SSD1306']]]
+  ['initbutton_598',['initButton',['../class_adafruit___g_f_x___button.html#a0cb6999a324b9999a1f4b610e36b16b6',1,'Adafruit_GFX_Button::initButton(Adafruit_GFX *gfx, int16_t x, int16_t y, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize)'],['../class_adafruit___g_f_x___button.html#ae1ecd12ab77b88bfe5a3a32ffc8eb5d4',1,'Adafruit_GFX_Button::initButton(Adafruit_GFX *gfx, int16_t x, int16_t y, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize_x, uint8_t textsize_y)']]],
+  ['initbuttonul_599',['initButtonUL',['../class_adafruit___g_f_x___button.html#a471d43fc4fb575b2868190d1ec832af7',1,'Adafruit_GFX_Button::initButtonUL(Adafruit_GFX *gfx, int16_t x1, int16_t y1, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize)'],['../class_adafruit___g_f_x___button.html#ad0febb5e28695d0ac2cac6a31cf6f27b',1,'Adafruit_GFX_Button::initButtonUL(Adafruit_GFX *gfx, int16_t x1, int16_t y1, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize_x, uint8_t textsize_y)']]],
+  ['initializenative_600',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC']]],
+  ['initspi_601',['initSPI',['../class_adafruit___s_p_i_t_f_t.html#a95164c088118b25d8e3efe48f9e86dbe',1,'Adafruit_SPITFT']]],
+  ['invertdisplay_602',['invertDisplay',['../class_adafruit___g_f_x.html#a45028d348fe4eb23854eb86f5cf99388',1,'Adafruit_GFX::invertDisplay()'],['../class_adafruit___gray_o_l_e_d.html#accaade9c6647e0d97737ee29f8257183',1,'Adafruit_GrayOLED::invertDisplay()'],['../class_adafruit___s_p_i_t_f_t.html#a21a13b3b0e6e0bb1328b5050559dd919',1,'Adafruit_SPITFT::invertDisplay()'],['../class_adafruit___s_s_d1306.html#a3e9436a654c826a55942606a2261b5ee',1,'Adafruit_SSD1306::invertDisplay()']]],
+  ['ispressed_603',['isPressed',['../class_adafruit___g_f_x___button.html#adfdc75934b4acca801127fae6914fbf8',1,'Adafruit_GFX_Button']]]
 ];

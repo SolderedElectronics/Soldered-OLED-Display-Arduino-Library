@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['file_139',['file',['../namespacemake__splash.html#a2ab3482e6f79e57e3e973e97cc42482f',1,'make_splash']]],
-  ['fn_140',['fn',['../namespacemake__splash.html#a06348d01c8f11a6d4dd7f3cc697acca1',1,'make_splash']]]
+  ['err_774',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]],
+  ['evu_775',['evu',['../_adafruit___s_p_i_t_f_t_8cpp.html#ae1dd8086edab9fee372d2c7346d10d96',1,'Adafruit_SPITFT.cpp']]]
 ];

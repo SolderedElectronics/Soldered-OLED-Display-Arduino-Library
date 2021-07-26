@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: easyC.h Source File</title>
+<title>128x64 EasyC OLED Display: easyC.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">128x64 EasyC OLED Display
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for Soldered OLED Display</div>
   </td>
  </tr>
  </tbody>
@@ -127,8 +127,8 @@ $(document).ready(function(){initNavTree('easy_c_8h_source.html',''); initResiza
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160; </div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="ttc" id="aclass_easy_c_html"><div class="ttname"><a href="class_easy_c.html">EasyC</a></div><div class="ttdef"><b>Definition:</b> easyC.h:22</div></div>
-<div class="ttc" id="aclass_easy_c_html_a10aa7df19e8c7bf12cd720b662f317a3"><div class="ttname"><a href="class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3">EasyC::sendAddress</a></div><div class="ttdeci">int sendAddress(char regAddr)</div><div class="ttdoc">Private function to send a single byte to sensor.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:77</div></div>
-<div class="ttc" id="aclass_easy_c_html_a1b5a82b8a59daea79de76e496457e176"><div class="ttname"><a href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC::begin</a></div><div class="ttdeci">void begin()</div><div class="ttdoc">Initializes sensors on native or easyC on default address.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:26</div></div>
+<div class="ttc" id="aclass_easy_c_html_a10aa7df19e8c7bf12cd720b662f317a3"><div class="ttname"><a href="class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3">EasyC::sendAddress</a></div><div class="ttdeci">int sendAddress(char regAddr)</div><div class="ttdoc">Private function to send a single byte to OLED_Display.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:77</div></div>
+<div class="ttc" id="aclass_easy_c_html_a1b5a82b8a59daea79de76e496457e176"><div class="ttname"><a href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC::begin</a></div><div class="ttdeci">void begin()</div><div class="ttdoc">Initializes OLED_Displays on native or easyC on default address.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:26</div></div>
 <div class="ttc" id="aclass_easy_c_html_a2ea672a225a32eab52c2b20733fd26bd"><div class="ttname"><a href="class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd">EasyC::EasyC</a></div><div class="ttdeci">EasyC()</div><div class="ttdoc">Main constructor for easyC version.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:18</div></div>
 <div class="ttc" id="aclass_easy_c_html_a2f55de657a84e73edda23dae91d30436"><div class="ttname"><a href="class_easy_c.html#a2f55de657a84e73edda23dae91d30436">EasyC::beginDone</a></div><div class="ttdeci">bool beginDone</div><div class="ttdef"><b>Definition:</b> easyC.h:31</div></div>
 <div class="ttc" id="aclass_easy_c_html_a45bd6c915c1fa0998e273f69ee2d2376"><div class="ttname"><a href="class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376">EasyC::readRegister</a></div><div class="ttdeci">int readRegister(char regAddr, char a[], size_t n)</div><div class="ttdoc">Private function to send over i2c and then read n bytes.</div><div class="ttdef"><b>Definition:</b> easyC.cpp:59</div></div>
@@ -147,7 +147,7 @@ $(document).ready(function(){initNavTree('easy_c_8h_source.html',''); initResiza
     <ul>
         <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_3db0dda00e9f66085ea9403aa7e09fb8.html">Generic-easyC</a></li><li class="navelem"><a class="el" href="easy_c_8h.html">easyC.h</a></li>
         <li class="footer">
-            Generated on Mon Jul 26 2021 13:56:48 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Mon Jul 26 2021 14:00:18 for 128x64 EasyC OLED Display by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

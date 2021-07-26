@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: Adafruit_SSD1306.h Source File</title>
+<title>128x64 EasyC OLED Display: Adafruit_SSD1306.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">128x64 EasyC OLED Display
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for Soldered OLED Display</div>
   </td>
  </tr>
  </tbody>
@@ -103,7 +103,7 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment">// AND HEIGHT ARGUMENTS).</span></div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160; </div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor">#if defined(ARDUINO_STM32_FEATHER)</span></div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="keyword">typedef</span> <span class="keyword">class </span>HardwareSPI <a class="code" href="_adafruit___s_s_d1306_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a>;</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="keyword">typedef</span> <span class="keyword">class </span>HardwareSPI <a class="code" href="_adafruit___s_p_i_t_f_t_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a>;</div>
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160; </div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor">#include &quot;../Adafruit-GFX-Library/Adafruit_GFX.h&quot;</span></div>
@@ -183,7 +183,7 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
 <div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;<span class="preprocessor">#define SSD1306_LCDHEIGHT 16 </span></div>
 <div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160; </div>
-<div class="line"><a name="l00125"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html">  125</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_adafruit___s_s_d1306.html">Adafruit_SSD1306</a> : <span class="keyword">public</span> Adafruit_GFX</div>
+<div class="line"><a name="l00125"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html">  125</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_adafruit___s_s_d1306.html">Adafruit_SSD1306</a> : <span class="keyword">public</span> <a class="code" href="class_adafruit___g_f_x.html">Adafruit_GFX</a></div>
 <div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;{</div>
 <div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;  <span class="keyword">public</span>:</div>
 <div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;    <span class="comment">// NEW CONSTRUCTORS -- recommended for new projects</span></div>
@@ -191,7 +191,7 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
 <div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;                     uint32_t clkAfter = 100000UL);</div>
 <div class="line"><a name="l00131"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#a11aca856b5633ab1131fdd86795ca925">  131</a></span>&#160;    <a class="code" href="class_adafruit___s_s_d1306.html#a11aca856b5633ab1131fdd86795ca925">Adafruit_SSD1306</a>(uint8_t w, uint8_t h, int8_t mosi_pin, int8_t sclk_pin, int8_t dc_pin, int8_t rst_pin,</div>
 <div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;                     int8_t cs_pin);</div>
-<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    <a class="code" href="class_adafruit___s_s_d1306.html#a650aa88a18f2d6a5c2d5442602d12286">Adafruit_SSD1306</a>(uint8_t w, uint8_t h, <a class="code" href="_adafruit___s_s_d1306_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a> *<a class="code" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">spi</a>, int8_t dc_pin, int8_t rst_pin, int8_t cs_pin,</div>
+<div class="line"><a name="l00133"></a><span class="lineno">  133</span>&#160;    <a class="code" href="class_adafruit___s_s_d1306.html#a650aa88a18f2d6a5c2d5442602d12286">Adafruit_SSD1306</a>(uint8_t w, uint8_t h, <a class="code" href="_adafruit___s_p_i_t_f_t_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a> *<a class="code" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">spi</a>, int8_t dc_pin, int8_t rst_pin, int8_t cs_pin,</div>
 <div class="line"><a name="l00134"></a><span class="lineno">  134</span>&#160;                     uint32_t bitrate = 8000000UL);</div>
 <div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160; </div>
 <div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;    <span class="comment">// DEPRECATED CONSTRUCTORS - for back compatibility, avoid in new projects</span></div>
@@ -226,7 +226,7 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
 <div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_adafruit___s_s_d1306.html#a018550c5b9f0463cb7cd2a74efa4ee48">ssd1306_command1</a>(uint8_t c);</div>
 <div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_adafruit___s_s_d1306.html#a799f35d2b93cb7a84840a94da69259be">ssd1306_commandList</a>(<span class="keyword">const</span> uint8_t *c, uint8_t n);</div>
 <div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160; </div>
-<div class="line"><a name="l00168"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">  168</a></span>&#160;    <a class="code" href="_adafruit___s_s_d1306_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a> *<a class="code" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">spi</a>;</div>
+<div class="line"><a name="l00168"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">  168</a></span>&#160;    <a class="code" href="_adafruit___s_p_i_t_f_t_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a> *<a class="code" href="class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511">spi</a>;</div>
 <div class="line"><a name="l00169"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#ad18dffe0baf2cfc818e507a1475e754d">  169</a></span>&#160;    TwoWire *<a class="code" href="class_adafruit___s_s_d1306.html#ad18dffe0baf2cfc818e507a1475e754d">wire</a>;</div>
 <div class="line"><a name="l00170"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#a03f9b3bc9dcd71c2461260f4d8ceb375">  170</a></span>&#160;    uint8_t *<a class="code" href="class_adafruit___s_s_d1306.html#a03f9b3bc9dcd71c2461260f4d8ceb375">buffer</a>;</div>
 <div class="line"><a name="l00171"></a><span class="lineno"><a class="line" href="class_adafruit___s_s_d1306.html#a00b9a5307eaf79559003dd66abcbfa17">  171</a></span>&#160;    int8_t <a class="code" href="class_adafruit___s_s_d1306.html#a00b9a5307eaf79559003dd66abcbfa17">i2caddr</a>, <a class="code" href="class_adafruit___s_s_d1306.html#ae0654c81bed89b9b1eaa8061c1b200cf">vccstate</a>, <a class="code" href="class_adafruit___s_s_d1306.html#ac8f43d71ecdeeecd4cdd9dda15e4b0bd">page_end</a>;</div>
@@ -248,9 +248,10 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
 <div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;};</div>
 <div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160; </div>
 <div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;<span class="preprocessor">#endif </span><span class="comment">// _Adafruit_SSD1306_H_</span></div>
+<div class="ttc" id="a_adafruit___s_p_i_t_f_t_8h_html_adbf07a3081097450dbc1b48f6d6ae852"><div class="ttname"><a href="_adafruit___s_p_i_t_f_t_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a></div><div class="ttdeci">class HardwareSPI SPIClass</div><div class="ttdoc">SPI is a bit odd on WICED.</div><div class="ttdef"><b>Definition:</b> Adafruit_SPITFT.h:34</div></div>
 <div class="ttc" id="a_adafruit___s_s_d1306_8h_html_aa1e6bc44481fc887f2044d363dd66238"><div class="ttname"><a href="_adafruit___s_s_d1306_8h.html#aa1e6bc44481fc887f2044d363dd66238">PortMask</a></div><div class="ttdeci">uint8_t PortMask</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.h:45</div></div>
 <div class="ttc" id="a_adafruit___s_s_d1306_8h_html_ab1ad1b337152cec52c4fe43fb027e66e"><div class="ttname"><a href="_adafruit___s_s_d1306_8h.html#ab1ad1b337152cec52c4fe43fb027e66e">PortReg</a></div><div class="ttdeci">volatile uint8_t PortReg</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.h:44</div></div>
-<div class="ttc" id="a_adafruit___s_s_d1306_8h_html_adbf07a3081097450dbc1b48f6d6ae852"><div class="ttname"><a href="_adafruit___s_s_d1306_8h.html#adbf07a3081097450dbc1b48f6d6ae852">SPIClass</a></div><div class="ttdeci">class HardwareSPI SPIClass</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.h:36</div></div>
+<div class="ttc" id="aclass_adafruit___g_f_x_html"><div class="ttname"><a href="class_adafruit___g_f_x.html">Adafruit_GFX</a></div><div class="ttdef"><b>Definition:</b> Adafruit_GFX.h:15</div></div>
 <div class="ttc" id="aclass_adafruit___s_s_d1306_html"><div class="ttname"><a href="class_adafruit___s_s_d1306.html">Adafruit_SSD1306</a></div><div class="ttdoc">Class that stores state and functions for interacting with SSD1306 OLED displays.</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.h:126</div></div>
 <div class="ttc" id="aclass_adafruit___s_s_d1306_html_a00b9a5307eaf79559003dd66abcbfa17"><div class="ttname"><a href="class_adafruit___s_s_d1306.html#a00b9a5307eaf79559003dd66abcbfa17">Adafruit_SSD1306::i2caddr</a></div><div class="ttdeci">int8_t i2caddr</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.h:171</div></div>
 <div class="ttc" id="aclass_adafruit___s_s_d1306_html_a018550c5b9f0463cb7cd2a74efa4ee48"><div class="ttname"><a href="class_adafruit___s_s_d1306.html#a018550c5b9f0463cb7cd2a74efa4ee48">Adafruit_SSD1306::ssd1306_command1</a></div><div class="ttdeci">void ssd1306_command1(uint8_t c)</div><div class="ttdef"><b>Definition:</b> Adafruit_SSD1306.cpp:384</div></div>
@@ -307,7 +308,7 @@ $(document).ready(function(){initNavTree('_adafruit___s_s_d1306_8h_source.html',
     <ul>
         <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_54f32fd121d524a5253bbf533cee9f88.html">Adafruit_SSD1306</a></li><li class="navelem"><a class="el" href="_adafruit___s_s_d1306_8h.html">Adafruit_SSD1306.h</a></li>
         <li class="footer">
-            Generated on Mon Jul 26 2021 13:56:48 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Mon Jul 26 2021 14:00:18 for 128x64 EasyC OLED Display by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

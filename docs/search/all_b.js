@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['readdata_52',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_53',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_54',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]],
-  ['restoreclk_55',['restoreClk',['../class_adafruit___s_s_d1306.html#a5a519c52354fb874541762d2abcb5348',1,'Adafruit_SSD1306']]],
-  ['rstpin_56',['rstPin',['../class_adafruit___s_s_d1306.html#a6b6c0cb074a7fe3cbebf425ba4619ff5',1,'Adafruit_SSD1306']]]
+  ['last_259',['last',['../struct_g_f_xfont.html#a9bc82580b9bc5cc1c15ae23457edcd49',1,'GFXfont']]],
+  ['lastfillcolor_260',['lastFillColor',['../class_adafruit___s_p_i_t_f_t.html#a4ef6aef0e757867f462aac246491bc70',1,'Adafruit_SPITFT']]],
+  ['lastfilllen_261',['lastFillLen',['../class_adafruit___s_p_i_t_f_t.html#ab3d446e452903206f4384e86f3ebff83',1,'Adafruit_SPITFT']]],
+  ['laststate_262',['laststate',['../class_adafruit___g_f_x___button.html#ab32a588703f43e0da2cbdc301621eb4a',1,'Adafruit_GFX_Button']]]
 ];

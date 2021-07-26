@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['readdata_109',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_110',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['height_597',['height',['../class_adafruit___g_f_x.html#a49da524caa19e5202ed2ed7fd5a3baea',1,'Adafruit_GFX']]]
 ];

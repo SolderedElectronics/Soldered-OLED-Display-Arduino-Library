@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['i2caddr_141',['i2caddr',['../class_adafruit___s_s_d1306.html#a00b9a5307eaf79559003dd66abcbfa17',1,'Adafruit_SSD1306']]],
-  ['id_142',['id',['../namespacemake__splash.html#a5762cbd4e854a17a55d64f9e1a6672a1',1,'make_splash']]]
+  ['file_776',['file',['../namespacemake__splash.html#a2ab3482e6f79e57e3e973e97cc42482f',1,'make_splash']]],
+  ['first_777',['first',['../struct_g_f_xfont.html#a802323f225b30dd2591c57ccb3fbac00',1,'GFXfont']]],
+  ['fn_778',['fn',['../namespacemake__splash.html#a06348d01c8f11a6d4dd7f3cc697acca1',1,'make_splash']]]
 ];

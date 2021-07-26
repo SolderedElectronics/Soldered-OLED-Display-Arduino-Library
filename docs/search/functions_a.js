@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['_7eadafruit_5fssd1306_123',['~Adafruit_SSD1306',['../class_adafruit___s_s_d1306.html#a550877cb23b0dba2b1e172363328ce87',1,'Adafruit_SSD1306']]]
+  ['justpressed_604',['justPressed',['../class_adafruit___g_f_x___button.html#ad263405e09f7f2415d6fed2628637c7c',1,'Adafruit_GFX_Button']]],
+  ['justreleased_605',['justReleased',['../class_adafruit___g_f_x___button.html#aad3fc2981cbe9dc16dc06a781d8fee90',1,'Adafruit_GFX_Button']]]
 ];

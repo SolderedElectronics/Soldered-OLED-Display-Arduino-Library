@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['spiclass_159',['SPIClass',['../_adafruit___s_s_d1306_8h.html#adbf07a3081097450dbc1b48f6d6ae852',1,'Adafruit_SSD1306.h']]]
+  ['busio_5fportmask_869',['BusIO_PortMask',['../_adafruit___s_p_i_device_8h.html#a35f583b4f886604e8eccdd92eb69cfc4',1,'Adafruit_SPIDevice.h']]],
+  ['busio_5fportreg_870',['BusIO_PortReg',['../_adafruit___s_p_i_device_8h.html#a67c0ffb311971ae018c62f87a4894250',1,'Adafruit_SPIDevice.h']]],
+  ['busiobitorder_871',['BusIOBitOrder',['../_adafruit___s_p_i_device_8h.html#ad65ace9d1f2e952e782eef68a6deeef3',1,'Adafruit_SPIDevice.h']]]
 ];
