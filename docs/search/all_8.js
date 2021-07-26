@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['main_40',['main',['../namespacemake__splash.html#a7fc8554c059b3fbcb83f82317a6013d0',1,'make_splash']]],
+  ['make_5fsplash_41',['make_splash',['../namespacemake__splash.html',1,'']]],
+  ['make_5fsplash_2epy_42',['make_splash.py',['../make__splash_8py.html',1,'']]],
+  ['mosipin_43',['mosiPin',['../class_adafruit___s_s_d1306.html#a6cb1a45ae527d3b5aaf4777d572e103c',1,'Adafruit_SSD1306']]],
+  ['mosipinmask_44',['mosiPinMask',['../class_adafruit___s_s_d1306.html#a6142fc4c3590c02e136071650dd331ef',1,'Adafruit_SSD1306']]],
+  ['mosiport_45',['mosiPort',['../class_adafruit___s_s_d1306.html#a259e1817bc4b205d247a3a195466a974',1,'Adafruit_SSD1306']]]
 ];
