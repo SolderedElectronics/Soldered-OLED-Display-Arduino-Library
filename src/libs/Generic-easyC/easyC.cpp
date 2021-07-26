@@ -6,7 +6,7 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
 
 #include "easyC.h"
@@ -21,7 +21,7 @@ EasyC::EasyC()
 }
 
 /**
- * @brief       Initializes sensors on native or easyC on default address
+ * @brief       Initializes OLED_Displays on native or easyC on default address
  */
 void EasyC::begin()
 {
@@ -34,9 +34,9 @@ void EasyC::begin()
 }
 
 /**
- * @brief                  Initializes sensors on supplied i2c address
+ * @brief                  Initializes OLED_Displays on supplied i2c address
  *
- * @param uint8_t _address Custom easyC sensor address
+ * @param uint8_t _address Custom easyC OLED_Display address
  */
 void EasyC::begin(uint8_t _address)
 {
@@ -68,7 +68,7 @@ int EasyC::readRegister(char regAddr, char a[], size_t n)
 }
 
 /**
- * @brief                Private function to send a single byte to sensor
+ * @brief                Private function to send a single byte to OLED_Display
  *
  * @param  char regAddr  Address of register to access later
  *
