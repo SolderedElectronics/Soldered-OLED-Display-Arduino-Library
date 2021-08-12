@@ -26,10 +26,6 @@ var files_dup =
     [ "Adafruit_SPITFT_Macros.h", "_adafruit___s_p_i_t_f_t___macros_8h.html", null ],
     [ "Adafruit_SSD1306.cpp", "_adafruit___s_s_d1306_8cpp.html", null ],
     [ "Adafruit_SSD1306.h", "_adafruit___s_s_d1306_8h.html", "_adafruit___s_s_d1306_8h" ],
-    [ "easyC.cpp", "easy_c_8cpp.html", null ],
-    [ "easyC.h", "easy_c_8h.html", [
-      [ "EasyC", "class_easy_c.html", "class_easy_c" ]
-    ] ],
     [ "fontconvert.c", "fontconvert_8c.html", "fontconvert_8c" ],
     [ "FreeMono12pt7b.h", "_free_mono12pt7b_8h.html", "_free_mono12pt7b_8h" ],
     [ "FreeMono18pt7b.h", "_free_mono18pt7b_8h.html", "_free_mono18pt7b_8h" ],

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['vccstate_843',['vccstate',['../class_adafruit___s_s_d1306.html#ae0654c81bed89b9b1eaa8061c1b200cf',1,'Adafruit_SSD1306']]]
+  ['xadvance_835',['xAdvance',['../struct_g_f_xglyph.html#a9b191040252aa9b5362087d65366bbf2',1,'GFXglyph']]],
+  ['xoffset_836',['xOffset',['../struct_g_f_xglyph.html#ab030bd9aeb37509ccc94ae3dcec4de98',1,'GFXglyph']]]
 ];

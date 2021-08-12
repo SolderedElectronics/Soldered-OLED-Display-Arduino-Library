@@ -9,7 +9,6 @@ var annotated_dup =
     [ "Adafruit_SPIDevice", "class_adafruit___s_p_i_device.html", "class_adafruit___s_p_i_device" ],
     [ "Adafruit_SPITFT", "class_adafruit___s_p_i_t_f_t.html", "class_adafruit___s_p_i_t_f_t" ],
     [ "Adafruit_SSD1306", "class_adafruit___s_s_d1306.html", "class_adafruit___s_s_d1306" ],
-    [ "EasyC", "class_easy_c.html", "class_easy_c" ],
     [ "GFXcanvas1", "class_g_f_xcanvas1.html", "class_g_f_xcanvas1" ],
     [ "GFXcanvas16", "class_g_f_xcanvas16.html", "class_g_f_xcanvas16" ],
     [ "GFXcanvas8", "class_g_f_xcanvas8.html", "class_g_f_xcanvas8" ],

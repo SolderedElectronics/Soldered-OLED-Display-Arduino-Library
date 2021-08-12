@@ -1,18 +1,16 @@
 var searchData=
 [
-  ['clkpin_745',['clkPin',['../class_adafruit___s_s_d1306.html#acff51cc479e93a18f3405c310e5a8f23',1,'Adafruit_SSD1306']]],
-  ['clkpinmask_746',['clkPinMask',['../class_adafruit___s_p_i_device.html#a6c5e4b00d922f8f7b08dc25b326a3e7d',1,'Adafruit_SPIDevice::clkPinMask()'],['../class_adafruit___s_s_d1306.html#adbc2f81210b99ac5be3a9db20f68064f',1,'Adafruit_SSD1306::clkPinMask()']]],
-  ['clkport_747',['clkPort',['../class_adafruit___s_p_i_device.html#acf20d0401fb13938c4716f419a5c2eb9',1,'Adafruit_SPIDevice::clkPort()'],['../class_adafruit___s_s_d1306.html#a3ab0c197aaf8d4ff5a0c0fd9fa47a0dc',1,'Adafruit_SSD1306::clkPort()']]],
-  ['connection_748',['connection',['../class_adafruit___s_p_i_t_f_t.html#ae17cc84566e35b026f8b6f38903be80b',1,'Adafruit_SPITFT']]],
-  ['contrast_749',['contrast',['../class_adafruit___s_s_d1306.html#af3036407aa0e0c3da75bf3af903d76b7',1,'Adafruit_SSD1306']]],
-  ['cspin_750',['csPin',['../class_adafruit___gray_o_l_e_d.html#aff4ae577695b683bb1a958692c0be77a',1,'Adafruit_GrayOLED::csPin()'],['../class_adafruit___s_s_d1306.html#a72ca16987bad2bbb4ca35312bb6e1d0e',1,'Adafruit_SSD1306::csPin()']]],
-  ['cspinmask_751',['csPinMask',['../class_adafruit___s_s_d1306.html#a3f7608bcc90be005ad519bc27ff0570d',1,'Adafruit_SSD1306::csPinMask()'],['../class_adafruit___s_p_i_device.html#ae9c516595b3a522a934c213a50cd7810',1,'Adafruit_SPIDevice::csPinMask()'],['../class_adafruit___s_p_i_t_f_t.html#ae26d36492e53e2f78de5a92d9d3dfee2',1,'Adafruit_SPITFT::csPinMask()']]],
-  ['cspinmaskclr_752',['csPinMaskClr',['../class_adafruit___s_p_i_t_f_t.html#a918a25c8c339ffe2181c8cec8d2cf839',1,'Adafruit_SPITFT']]],
-  ['cspinmaskset_753',['csPinMaskSet',['../class_adafruit___s_p_i_t_f_t.html#a2cb6cdf42bb1fd31632e6f3c95de1070',1,'Adafruit_SPITFT']]],
-  ['csport_754',['csPort',['../class_adafruit___s_p_i_t_f_t.html#adb1951358fe71a8828735b1070005573',1,'Adafruit_SPITFT::csPort()'],['../class_adafruit___s_p_i_device.html#a9ebb419c101d8c19f2406462c21cf899',1,'Adafruit_SPIDevice::csPort()'],['../class_adafruit___s_s_d1306.html#a432b7584f4d5f1a27d5924452cb12a70',1,'Adafruit_SSD1306::csPort()']]],
-  ['csportclr_755',['csPortClr',['../class_adafruit___s_p_i_t_f_t.html#a996349a365129434ac7ba438bd9a86bb',1,'Adafruit_SPITFT']]],
-  ['csportset_756',['csPortSet',['../class_adafruit___s_p_i_t_f_t.html#a5dd6e0a734feedc3b000b8e0e85f24ee',1,'Adafruit_SPITFT']]],
-  ['currstate_757',['currstate',['../class_adafruit___g_f_x___button.html#a202aa4b53b3517bbfb7fc666f46ce762',1,'Adafruit_GFX_Button']]],
-  ['cursor_5fx_758',['cursor_x',['../class_adafruit___g_f_x.html#a8f8983cea8d81a7c8e9d05eef36318e2',1,'Adafruit_GFX']]],
-  ['cursor_5fy_759',['cursor_y',['../class_adafruit___g_f_x.html#aebe0a38f6e6fd59cb81620c4696286c9',1,'Adafruit_GFX']]]
+  ['dcpin_737',['dcPin',['../class_adafruit___s_s_d1306.html#a3e5777c373fe33b5de1b250e9a797c2b',1,'Adafruit_SSD1306::dcPin()'],['../class_adafruit___gray_o_l_e_d.html#a2ee71e1b877defeca7f7d8689677d363',1,'Adafruit_GrayOLED::dcPin()']]],
+  ['dcpinmask_738',['dcPinMask',['../class_adafruit___s_p_i_t_f_t.html#adc686af89023e91da34a541d788dfbdf',1,'Adafruit_SPITFT::dcPinMask()'],['../class_adafruit___s_s_d1306.html#a5344aa23e64cf3c39ae1f67024dab844',1,'Adafruit_SSD1306::dcPinMask()']]],
+  ['dcpinmaskclr_739',['dcPinMaskClr',['../class_adafruit___s_p_i_t_f_t.html#a376a7e5d6434dae746691332d4790ace',1,'Adafruit_SPITFT']]],
+  ['dcpinmaskset_740',['dcPinMaskSet',['../class_adafruit___s_p_i_t_f_t.html#a5e665ec709e90c33d502d8b5fe032fd1',1,'Adafruit_SPITFT']]],
+  ['dcport_741',['dcPort',['../class_adafruit___s_p_i_t_f_t.html#aba2f40fcd4f69701be9df9d7f823acc4',1,'Adafruit_SPITFT::dcPort()'],['../class_adafruit___s_s_d1306.html#a6d010f9750424af47d1020bc04bf59fc',1,'Adafruit_SSD1306::dcPort()']]],
+  ['dcportclr_742',['dcPortClr',['../class_adafruit___s_p_i_t_f_t.html#a984968716d0a9dbe88111e38ae2987b3',1,'Adafruit_SPITFT']]],
+  ['dcportset_743',['dcPortSet',['../class_adafruit___s_p_i_t_f_t.html#a8fe06d1ee992bc08d2f64ffc0b217521',1,'Adafruit_SPITFT']]],
+  ['descriptor_744',['descriptor',['../class_adafruit___s_p_i_t_f_t.html#a3b83873551cebc68d3a3b9e850fc6fac',1,'Adafruit_SPITFT']]],
+  ['dirclr_745',['dirClr',['../class_adafruit___s_p_i_t_f_t.html#a90c97c813a8a0c075a86ba294d47088f',1,'Adafruit_SPITFT::dirClr()'],['../class_adafruit___s_p_i_t_f_t.html#ab651a7246d3b72e5c010bc76db9fdb58',1,'Adafruit_SPITFT::dirClr()']]],
+  ['dirset_746',['dirSet',['../class_adafruit___s_p_i_t_f_t.html#af004c97e56f15228765da1fb1978c135',1,'Adafruit_SPITFT::dirSet()'],['../class_adafruit___s_p_i_t_f_t.html#ad475aa6dbefd3f0197015d4ff3f24c6c',1,'Adafruit_SPITFT::dirSet()']]],
+  ['dma_747',['dma',['../class_adafruit___s_p_i_t_f_t.html#a85e308e09029e313c869be882f5c4ce3',1,'Adafruit_SPITFT']]],
+  ['dma_5fbusy_748',['dma_busy',['../_adafruit___s_p_i_t_f_t_8cpp.html#a6d745b360c9ad1e3de0fe2ea134209f9',1,'Adafruit_SPITFT.cpp']]],
+  ['dptr_749',['dptr',['../class_adafruit___s_p_i_t_f_t.html#a18c45722daf712da78bebe358ad4e7c7',1,'Adafruit_SPITFT']]]
 ];

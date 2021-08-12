@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['gfxfont_2eh_521',['gfxfont.h',['../gfxfont_8h.html',1,'']]],
-  ['glcdfont_2ec_522',['glcdfont.c',['../glcdfont_8c.html',1,'']]]
+  ['make_5fsplash_2epy_508',['make_splash.py',['../make__splash_8py.html',1,'']]]
 ];

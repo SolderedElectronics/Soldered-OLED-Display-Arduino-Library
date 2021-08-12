@@ -33,7 +33,7 @@ var searchData=
   ['adagfx_5fport_5ft_81',['ADAGFX_PORT_t',['../_adafruit___s_p_i_t_f_t_8h.html#a155b656c374ad13b812e6647122abf6e',1,'Adafruit_SPITFT.h']]],
   ['addrbit8_5fhigh_5ftoread_82',['ADDRBIT8_HIGH_TOREAD',['../_adafruit___bus_i_o___register_8h.html#aab8187a2a7855dbdafc14106289f7c52a8b87cf6aa44743ad867af0a38ebf7a2d',1,'Adafruit_BusIO_Register.h']]],
   ['addrbit8_5fhigh_5ftowrite_83',['ADDRBIT8_HIGH_TOWRITE',['../_adafruit___bus_i_o___register_8h.html#aab8187a2a7855dbdafc14106289f7c52af378f422210a85e02ce862100f9be37b',1,'Adafruit_BusIO_Register.h']]],
-  ['address_84',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC::address()'],['../class_adafruit___i2_c_device.html#ae02c4691dbe893c3a5a3de478d776062',1,'Adafruit_I2CDevice::address()']]],
+  ['address_84',['address',['../class_adafruit___i2_c_device.html#ae02c4691dbe893c3a5a3de478d776062',1,'Adafruit_I2CDevice']]],
   ['addressed_5fopcode_5fbit0_5flow_5fto_5fwrite_85',['ADDRESSED_OPCODE_BIT0_LOW_TO_WRITE',['../_adafruit___bus_i_o___register_8h.html#aab8187a2a7855dbdafc14106289f7c52a2f34659af5a4eca59f60cb6c60779104',1,'Adafruit_BusIO_Register.h']]],
   ['avoid_5funused_5fconst_5fvariable_5fcompiler_5fwarning_86',['avoid_unused_const_variable_compiler_warning',['../glcdfont_8c.html#a86c3ef68b826fc0a5598d7e950f7e94e',1,'glcdfont.c']]]
 ];
