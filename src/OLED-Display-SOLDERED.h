@@ -22,7 +22,7 @@
 class OLED_Display : public Adafruit_SSD1306
 {
   public:
-    OLED_Display() : Adafruit_SSD1306(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire)
+    OLED_Display() : Adafruit_SSD1306(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1, 100000, 100000)
     {
     }
 
