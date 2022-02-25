@@ -15,7 +15,7 @@
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in 128x64 OLED display hardware repository
+You can find hardware design for this board in 128x64 OLED display board hardware repository
 
 ### Documentation
 
