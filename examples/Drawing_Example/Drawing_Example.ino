@@ -107,7 +107,7 @@ void testdrawline()
     }
     for (i = 0; i < display.height(); i += 4)
     {
-        display.drawLine(0, 0, display.width() - 1, i, SSD1306_WHITE);
+        display.drawLine(0, 0, display.width() - 1, i, SSD1306_WHITE); //Draw line with start(0,0) and end(display.width() - 1, i)
         display.display();
         delay(1);
     }
