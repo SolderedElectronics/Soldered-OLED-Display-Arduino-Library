@@ -8,7 +8,7 @@ var class_g_f_xcanvas8 =
     [ "drawFastVLine", "class_g_f_xcanvas8.html#a8b325776c7f78401534bae15a8d92437", null ],
     [ "drawPixel", "class_g_f_xcanvas8.html#a596553ea995b2d7830cc3eef0c4085fc", null ],
     [ "fillScreen", "class_g_f_xcanvas8.html#a9362b64e0e24b34172226cab358f5a45", null ],
-    [ "getBuffer", "class_g_f_xcanvas8.html#a1928e73eeb06e56a8e8c75738b57e304", null ],
+    [ "getBuffer", "class_g_f_xcanvas8.html#a7e336708e59f955ba2fdced798cca0f4", null ],
     [ "getPixel", "class_g_f_xcanvas8.html#a596d92a61af6e59c69f132f1670ee62c", null ],
     [ "getRawPixel", "class_g_f_xcanvas8.html#a4ba7ffdd7a75f7377f5856547e4e1391", null ],
     [ "buffer", "class_g_f_xcanvas8.html#a9798c30f72aacd8a1488368375b0352f", null ]

@@ -64,7 +64,7 @@ var NAVTREEINDEX =
 "_adafruit___bus_i_o___register_8cpp.html",
 "class_adafruit___bus_i_o___register_bits.html#a369a5c8d03df7da82f8f46f00bd73855",
 "class_adafruit___s_p_i_t_f_t.html#a88f3c607cb9a5bd1d7f55881a1f3dc95",
-"namespaces.html"
+"scripts_2splash_8h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
