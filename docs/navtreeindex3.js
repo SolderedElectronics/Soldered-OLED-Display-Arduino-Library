@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"pages.html":[],
 "scripts_2splash_8h.html":[4,0,0,0,2,0,1],
 "scripts_2splash_8h.html#a3382be1b655515d792081bcf4275f2b1":[4,0,0,0,2,0,1,0],
 "scripts_2splash_8h_source.html":[4,0,0,0,2,0,1],

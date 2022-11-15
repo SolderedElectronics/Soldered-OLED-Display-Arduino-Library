@@ -234,6 +234,7 @@ var NAVTREEINDEX2 =
 "hierarchy.html":[3,2],
 "index.html":[],
 "index.html":[0],
+"index.html#autotoc_md8":[0,0],
 "make__splash_8py.html":[4,0,0,0,2,0,0],
 "make__splash_8py.html#a06348d01c8f11a6d4dd7f3cc697acca1":[4,0,0,0,2,0,0,2],
 "make__splash_8py.html#a2ab3482e6f79e57e3e973e97cc42482f":[4,0,0,0,2,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "namespacemembers.html":[2,1,0],
 "namespacemembers_func.html":[2,1,1],
 "namespacemembers_vars.html":[2,1,2],
-"namespaces.html":[2,0],
-"pages.html":[]
+"namespaces.html":[2,0]
 };
