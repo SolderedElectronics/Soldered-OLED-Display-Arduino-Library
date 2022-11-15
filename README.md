@@ -10,7 +10,33 @@
 | :---------------------------------------------------------------------------------------------: |
 | [Display OLED I2C Blue 0.96" SSD1306](https://www.solde.red/333100)                                                          |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC). 
+Looking to add visuals to your Arduino projects? The I2C OLED breakout board is perfect for that. Because of its high contrast, you will be in awe of its crispness! The display is made from hundreds of LEDs, each representing one pixel in a 128x64 grid. Thus, it doesn't need any backlight, and it needs less power than the classic LCD screens. That’s 8192 pixels all individually lit at your fingertips!
+
+The design is 5V ready with an onboard regulator, so is compatible with any 3.3V board. The breakout board uses only about 20 mA, depending on active pixels. It is easy to control over the I2C interface. It is even easier to connect with the easyC system - no soldering required!
+
+- Screen diagonal: 0.96" wide
+- Dimensions: 30 mm x 30 mm
+- Current consumption: ~20 mA (depending on active pixels)
+- Logic voltage level: 5V (on I2C header)
+- Operating voltage: 5V (onboard regulator for 3.3V)
+- Communication: I2C (address: 0x3C)
+- Connectors: easyC x2
+- Pixel color: white
+- Mounting holes: 2 (https://www.soldered.com/en/easyC)
+
+Looking to add visuals to your Arduino projects? The I2C OLED breakout board is perfect for that. Because of its high contrast, you will be in awe of its crispness! The display is made from hundreds of LEDs, each representing one pixel in a 128x64 grid. Thus, it doesn't need any backlight, and it needs less power than the classic LCD screens. That’s 8192 pixels all individually lit at your fingertips!
+
+The design is 5V ready with an onboard regulator, so is compatible with any 3.3V board. The breakout board uses only about 20 mA, depending on active pixels. It is easy to control over the I2C interface. It is even easier to connect with the easyC system - no soldering required!
+
+- Screen diagonal: 0.96" wide
+- Dimensions: 30 mm x 30 mm
+- Current consumption: ~20 mA (depending on active pixels)
+- Logic voltage level: 5V (on I2C header)
+- Operating voltage: 5V (onboard regulator for 3.3V)
+- Communication: I2C (address: 0x3C)
+- Connectors: easyC x2
+- Pixel color: blue
+- Mounting holes: 2
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
