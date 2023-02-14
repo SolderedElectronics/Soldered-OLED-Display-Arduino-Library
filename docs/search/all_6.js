@@ -8,7 +8,7 @@ var searchData=
   ['fillscreen_5',['fillScreen',['../class_g_f_xcanvas16.html#ae46db6d49d2943e7cb227fd0bb50b1f8',1,'GFXcanvas16::fillScreen()'],['../class_g_f_xcanvas8.html#a9362b64e0e24b34172226cab358f5a45',1,'GFXcanvas8::fillScreen()'],['../class_g_f_xcanvas1.html#aa282792bbb854a4a045be5ba1c8a7afc',1,'GFXcanvas1::fillScreen()'],['../class_adafruit___g_f_x.html#a2b2730aaf2208990928f9c0f85558527',1,'Adafruit_GFX::fillScreen(uint16_t color)']]],
   ['filltriangle_6',['fillTriangle',['../class_adafruit___g_f_x.html#a4cd646a3d9c9d5b3ee50010d0aa387cd',1,'Adafruit_GFX']]],
   ['first_7',['first',['../struct_g_f_xfont.html#a802323f225b30dd2591c57ccb3fbac00',1,'GFXfont']]],
-  ['fn_8',['fn',['../namespacemake__splash.html#a06348d01c8f11a6d4dd7f3cc697acca1',1,'make_splash']]],
+  ['fn_8',['fn',['../namespacemake__splash.html#a9b06d2340c934fe03c24eda2d20e99dc',1,'make_splash']]],
   ['fontconvert_2ec_9',['fontconvert.c',['../fontconvert_8c.html',1,'']]],
   ['fontconvert_5fwin_2emd_10',['fontconvert_win.md',['../fontconvert__win_8md.html',1,'']]],
   ['freemono12pt7b_2eh_11',['FreeMono12pt7b.h',['../_free_mono12pt7b_8h.html',1,'']]],

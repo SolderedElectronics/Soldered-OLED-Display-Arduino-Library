@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "128x64 EasyC OLED Display", "index.html", [
-    [ "OLED Display Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "OLED Display Arduino library", "index.html", "index" ],
     [ "A short guide to use fontconvert.c to create your own fonts using MinGW.", "md_src_libs__adafruit__g_f_x__library_fontconvert_fontconvert_win.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
