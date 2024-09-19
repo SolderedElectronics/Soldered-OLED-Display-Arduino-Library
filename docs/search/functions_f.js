@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sendcommand_0',['sendCommand',['../class_adafruit___s_p_i_t_f_t.html#a5ef8b31057e71a95d0aa03209925f4bf',1,'Adafruit_SPITFT::sendCommand(uint8_t commandByte, const uint8_t *dataBytes=NULL, uint8_t numDataBytes=0)'],['../class_adafruit___s_p_i_t_f_t.html#afbc3e9e663e0bea2d45d98c90b2300d7',1,'Adafruit_SPITFT::sendCommand(uint8_t commandByte, uint8_t *dataBytes, uint8_t numDataBytes)']]],
+  ['sendcommand_0',['sendCommand',['../class_adafruit___s_p_i_t_f_t.html#afbc3e9e663e0bea2d45d98c90b2300d7',1,'Adafruit_SPITFT::sendCommand(uint8_t commandByte, uint8_t *dataBytes, uint8_t numDataBytes)'],['../class_adafruit___s_p_i_t_f_t.html#a5ef8b31057e71a95d0aa03209925f4bf',1,'Adafruit_SPITFT::sendCommand(uint8_t commandByte, const uint8_t *dataBytes=NULL, uint8_t numDataBytes=0)']]],
   ['sendcommand16_1',['sendCommand16',['../class_adafruit___s_p_i_t_f_t.html#aef31a2ee17d9ea6d089996a2430087ef',1,'Adafruit_SPITFT']]],
   ['setaddress_2',['setAddress',['../class_adafruit___bus_i_o___register.html#a08ddf29ed836c712e2a2f050e1ae3bcd',1,'Adafruit_BusIO_Register']]],
   ['setaddresswidth_3',['setAddressWidth',['../class_adafruit___bus_i_o___register.html#a421a7c74ab0faafe243060af1883717a',1,'Adafruit_BusIO_Register']]],

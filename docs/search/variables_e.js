@@ -10,6 +10,6 @@ var searchData=
   ['spi_7',['spi',['../class_adafruit___s_s_d1306.html#a32cff6721c6a7760ad9ac8656080f511',1,'Adafruit_SSD1306']]],
   ['spi_5fdev_8',['spi_dev',['../class_adafruit___gray_o_l_e_d.html#ad5375d6b117a65c0a8bc67e4a042ddb5',1,'Adafruit_GrayOLED']]],
   ['spisettings_9',['spiSettings',['../class_adafruit___s_s_d1306.html#ae0b301a9cf55e8960a845f9c03429f19',1,'Adafruit_SSD1306']]],
-  ['splash1_5fdata_10',['splash1_data',['../scripts_2splash_8h.html#a3382be1b655515d792081bcf4275f2b1',1,'splash1_data():&#160;splash.h'],['../splash_8h.html#a3382be1b655515d792081bcf4275f2b1',1,'splash1_data():&#160;splash.h']]],
+  ['splash1_5fdata_10',['splash1_data',['../scripts_2splash_8h.html#a3382be1b655515d792081bcf4275f2b1',1,'splash1_data:&#160;splash.h'],['../splash_8h.html#a3382be1b655515d792081bcf4275f2b1',1,'splash1_data:&#160;splash.h']]],
   ['swspi_11',['swspi',['../class_adafruit___s_p_i_t_f_t.html#a79528f56edb584e04f7640b56f876853',1,'Adafruit_SPITFT']]]
 ];

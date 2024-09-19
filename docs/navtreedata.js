@@ -26,7 +26,7 @@ var NAVTREE =
 [
   [ "128x64 EasyC OLED Display", "index.html", [
     [ "OLED Display Arduino library", "index.html", "index" ],
-    [ "A short guide to use fontconvert.c to create your own fonts using MinGW.", "md_src_libs__adafruit__g_f_x__library_fontconvert_fontconvert_win.html", null ],
+    [ "A short guide to use fontconvert.c to create your own fonts using MinGW.", "md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -62,9 +62,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_adafruit___bus_i_o___register_8cpp.html",
-"class_adafruit___bus_i_o___register_bits.html#a369a5c8d03df7da82f8f46f00bd73855",
-"class_adafruit___s_p_i_t_f_t.html#a88f3c607cb9a5bd1d7f55881a1f3dc95",
-"pages.html"
+"class_adafruit___bus_i_o___register_bits.html#a868614bb793ae3c4c00b7954896213d0",
+"class_adafruit___s_p_i_t_f_t.html#a8fe06d1ee992bc08d2f64ffc0b217521",
+"scripts_2splash_8h.html#a3382be1b655515d792081bcf4275f2b1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

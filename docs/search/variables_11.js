@@ -10,7 +10,7 @@ var searchData=
   ['wire_7',['wire',['../class_adafruit___s_s_d1306.html#ad18dffe0baf2cfc818e507a1475e754d',1,'Adafruit_SSD1306']]],
   ['wireclk_8',['wireClk',['../class_adafruit___s_s_d1306.html#a42105cc35a35ed5bf2acff98a6375901',1,'Adafruit_SSD1306']]],
   ['wrap_9',['wrap',['../class_adafruit___g_f_x.html#a8c31e63d43f7285e47aa48c363d86ce9',1,'Adafruit_GFX']]],
-  ['writeport_10',['writePort',['../class_adafruit___s_p_i_t_f_t.html#a7b3d8c8a320004349fde65087d29c4aa',1,'Adafruit_SPITFT::writePort()'],['../class_adafruit___s_p_i_t_f_t.html#a2b78411bcfa64c986a632edf19116092',1,'Adafruit_SPITFT::writePort()']]],
+  ['writeport_10',['writePort',['../class_adafruit___s_p_i_t_f_t.html#a7b3d8c8a320004349fde65087d29c4aa',1,'Adafruit_SPITFT::writePort'],['../class_adafruit___s_p_i_t_f_t.html#a2b78411bcfa64c986a632edf19116092',1,'Adafruit_SPITFT::writePort']]],
   ['wrpinmask_11',['wrPinMask',['../class_adafruit___s_p_i_t_f_t.html#a47630307dc0bdd751649e89f0af66059',1,'Adafruit_SPITFT']]],
   ['wrpinmaskclr_12',['wrPinMaskClr',['../class_adafruit___s_p_i_t_f_t.html#a7e99064dc7376b47684d307b1af0c037',1,'Adafruit_SPITFT']]],
   ['wrpinmaskset_13',['wrPinMaskSet',['../class_adafruit___s_p_i_t_f_t.html#afe341d83cc10d60afbf3dace461a50ca',1,'Adafruit_SPITFT']]],

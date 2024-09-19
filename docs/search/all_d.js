@@ -1,11 +1,18 @@
 var searchData=
 [
-  ['oled_20display_20arduino_20library_0',['OLED Display Arduino library',['../index.html',1,'']]],
-  ['oled_2ddisplay_2dsoldered_2ecpp_1',['OLED-Display-SOLDERED.cpp',['../_o_l_e_d-_display-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['oled_2ddisplay_2dsoldered_2eh_2',['OLED-Display-SOLDERED.h',['../_o_l_e_d-_display-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
-  ['oled_5fcommand_3',['oled_command',['../class_adafruit___gray_o_l_e_d.html#a24b83d7f148e7f2c09ab6b202e918294',1,'Adafruit_GrayOLED']]],
-  ['oled_5fcommandlist_4',['oled_commandList',['../class_adafruit___gray_o_l_e_d.html#a206d32087e5100246b4346bf627ea40f',1,'Adafruit_GrayOLED']]],
-  ['oled_5fdisplay_5',['OLED_Display',['../class_o_l_e_d___display.html',1,'OLED_Display'],['../class_o_l_e_d___display.html#a97a97ff805834e4ad95cee6a08d92d9e',1,'OLED_Display::OLED_Display()']]],
-  ['onepixelbuf_6',['onePixelBuf',['../class_adafruit___s_p_i_t_f_t.html#a90d684bfcca2ac69cefe10a407861c73',1,'Adafruit_SPITFT']]],
-  ['org_5f01_2eh_7',['Org_01.h',['../_org__01_8h.html',1,'']]]
+  ['i2c_5fdev_0',['i2c_dev',['../class_adafruit___gray_o_l_e_d.html#aaa7488ce454be556f3cee63bbb132c56',1,'Adafruit_GrayOLED']]],
+  ['i2c_5fpostclk_1',['i2c_postclk',['../class_adafruit___gray_o_l_e_d.html#ac40167916deb4a26a1c1f595a60b968e',1,'Adafruit_GrayOLED']]],
+  ['i2c_5fpreclk_2',['i2c_preclk',['../class_adafruit___gray_o_l_e_d.html#a2ccedd0e6c08c84df1ef4cbf174d57f7',1,'Adafruit_GrayOLED']]],
+  ['i2caddr_3',['i2caddr',['../class_adafruit___s_s_d1306.html#a00b9a5307eaf79559003dd66abcbfa17',1,'Adafruit_SSD1306']]],
+  ['id_4',['id',['../namespacemake__splash.html#a5762cbd4e854a17a55d64f9e1a6672a1',1,'make_splash']]],
+  ['initbutton_5',['initButton',['../class_adafruit___g_f_x___button.html#a0cb6999a324b9999a1f4b610e36b16b6',1,'Adafruit_GFX_Button::initButton(Adafruit_GFX *gfx, int16_t x, int16_t y, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize)'],['../class_adafruit___g_f_x___button.html#ae1ecd12ab77b88bfe5a3a32ffc8eb5d4',1,'Adafruit_GFX_Button::initButton(Adafruit_GFX *gfx, int16_t x, int16_t y, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize_x, uint8_t textsize_y)']]],
+  ['initbuttonul_6',['initButtonUL',['../class_adafruit___g_f_x___button.html#a471d43fc4fb575b2868190d1ec832af7',1,'Adafruit_GFX_Button::initButtonUL(Adafruit_GFX *gfx, int16_t x1, int16_t y1, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize)'],['../class_adafruit___g_f_x___button.html#ad0febb5e28695d0ac2cac6a31cf6f27b',1,'Adafruit_GFX_Button::initButtonUL(Adafruit_GFX *gfx, int16_t x1, int16_t y1, uint16_t w, uint16_t h, uint16_t outline, uint16_t fill, uint16_t textcolor, char *label, uint8_t textsize_x, uint8_t textsize_y)']]],
+  ['initspi_7',['initSPI',['../class_adafruit___s_p_i_t_f_t.html#a95164c088118b25d8e3efe48f9e86dbe',1,'Adafruit_SPITFT']]],
+  ['install_20freetype_20library_8',['STEP 2: INSTALL Freetype Library',['../md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html#autotoc_md13',1,'']]],
+  ['install_20mingw_9',['STEP 1: INSTALL MinGW',['../md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html#autotoc_md12',1,'']]],
+  ['introduction_10',['Introduction',['..//github/workspace/gh-pages/src/libs/Adafruit-GFX-Library/Adafruit_SPITFT.cpp#intro_sec',1,'']]],
+  ['invertdisplay_11',['invertDisplay',['../class_adafruit___g_f_x.html#a45028d348fe4eb23854eb86f5cf99388',1,'Adafruit_GFX::invertDisplay()'],['../class_adafruit___gray_o_l_e_d.html#accaade9c6647e0d97737ee29f8257183',1,'Adafruit_GrayOLED::invertDisplay()'],['../class_adafruit___s_p_i_t_f_t.html#a21a13b3b0e6e0bb1328b5050559dd919',1,'Adafruit_SPITFT::invertDisplay()'],['../class_adafruit___s_s_d1306.html#a3e9436a654c826a55942606a2261b5ee',1,'Adafruit_SSD1306::invertDisplay()']]],
+  ['invertoffcommand_12',['invertOffCommand',['../class_adafruit___s_p_i_t_f_t.html#a7248ddde9f18b64675139cea13998141',1,'Adafruit_SPITFT']]],
+  ['invertoncommand_13',['invertOnCommand',['../class_adafruit___s_p_i_t_f_t.html#ad6d068ec372f9ffa2a6a451542634bc1',1,'Adafruit_SPITFT']]],
+  ['ispressed_14',['isPressed',['../class_adafruit___g_f_x___button.html#adfdc75934b4acca801127fae6914fbf8',1,'Adafruit_GFX_Button']]]
 ];

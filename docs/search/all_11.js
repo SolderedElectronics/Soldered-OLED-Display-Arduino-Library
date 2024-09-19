@@ -1,19 +1,16 @@
 var searchData=
 [
-  ['tc_0',['tc',['../_adafruit___s_p_i_t_f_t_8cpp.html#a4a3e221a1ff98823ea1a413b8771a86e',1,'Adafruit_SPITFT.cpp']]],
-  ['tclist_1',['tcList',['../_adafruit___s_p_i_t_f_t_8cpp.html#ae1dd2267df6099799e964652110a6385',1,'Adafruit_SPITFT.cpp']]],
-  ['textbgcolor_2',['textbgcolor',['../class_adafruit___g_f_x.html#a23e7a4efcab0b1588dc0cafa14b1fac1',1,'Adafruit_GFX']]],
-  ['textcolor_3',['textcolor',['../class_adafruit___g_f_x.html#a8c6d23a386651136fd9530a5b7046591',1,'Adafruit_GFX']]],
-  ['textsize_5fx_4',['textsize_x',['../class_adafruit___g_f_x.html#a9c33cd6928ad6738a633e97727ae8773',1,'Adafruit_GFX']]],
-  ['textsize_5fy_5',['textsize_y',['../class_adafruit___g_f_x.html#aa8588c3941eec083563c853ada3dd771',1,'Adafruit_GFX']]],
-  ['tft16bitbus_6',['tft16bitbus',['../_adafruit___s_p_i_t_f_t_8h.html#a4a7dffd73fe8924b90709aa7e6e366e8aa297f8a593b6ec8adbc448f8412197c9',1,'Adafruit_SPITFT.h']]],
-  ['tft8_7',['tft8',['../class_adafruit___s_p_i_t_f_t.html#a09f220b56ba3941376e173a30e3b6980',1,'Adafruit_SPITFT']]],
-  ['tft8bitbus_8',['tft8bitbus',['../_adafruit___s_p_i_t_f_t_8h.html#a4a7dffd73fe8924b90709aa7e6e366e8a16ca18ac7deba4c2093cf7cd7c2209b4',1,'Adafruit_SPITFT.h']]],
-  ['tft_5frd_5fhigh_9',['TFT_RD_HIGH',['../class_adafruit___s_p_i_t_f_t.html#ad7bfd459e24a52d990c238435a5f9b3e',1,'Adafruit_SPITFT']]],
-  ['tft_5frd_5flow_10',['TFT_RD_LOW',['../class_adafruit___s_p_i_t_f_t.html#a12271a88164e8050ad349fda34dce02d',1,'Adafruit_SPITFT']]],
-  ['tft_5fwr_5fstrobe_11',['TFT_WR_STROBE',['../class_adafruit___s_p_i_t_f_t.html#ab59285824eb5a042a2169edc127b2551',1,'Adafruit_SPITFT']]],
-  ['tftbuswidth_12',['tftBusWidth',['../_adafruit___s_p_i_t_f_t_8h.html#a4a7dffd73fe8924b90709aa7e6e366e8',1,'Adafruit_SPITFT.h']]],
-  ['tiny3x3a2pt7b_2eh_13',['Tiny3x3a2pt7b.h',['../_tiny3x3a2pt7b_8h.html',1,'']]],
-  ['tomthumb_2eh_14',['TomThumb.h',['../_tom_thumb_8h.html',1,'']]],
-  ['transfer_15',['transfer',['../class_adafruit___s_p_i_device.html#a155f5efd84dbc240c987f4066265b840',1,'Adafruit_SPIDevice::transfer(uint8_t *buffer, size_t len)'],['../class_adafruit___s_p_i_device.html#ac60964386f37b2c498fc1b1540f61889',1,'Adafruit_SPIDevice::transfer(uint8_t send)']]]
+  ['of_20pixels_20w_20last_20fill_0',['of pixels w/last fill',['../class_adafruit___s_p_i_t_f_t.html#autotoc_md10',1,'']]],
+  ['oled_20display_20arduino_20library_1',['OLED Display Arduino library',['../index.html',1,'']]],
+  ['oled_2ddisplay_2dsoldered_2ecpp_2',['OLED-Display-SOLDERED.cpp',['../_o_l_e_d-_display-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['oled_2ddisplay_2dsoldered_2eh_3',['OLED-Display-SOLDERED.h',['../_o_l_e_d-_display-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
+  ['oled_5fcommand_4',['oled_command',['../class_adafruit___gray_o_l_e_d.html#a24b83d7f148e7f2c09ab6b202e918294',1,'Adafruit_GrayOLED']]],
+  ['oled_5fcommandlist_5',['oled_commandList',['../class_adafruit___gray_o_l_e_d.html#a206d32087e5100246b4346bf627ea40f',1,'Adafruit_GrayOLED']]],
+  ['oled_5fdisplay_6',['OLED_Display',['../class_o_l_e_d___display.html',1,'OLED_Display'],['../class_o_l_e_d___display.html#a97a97ff805834e4ad95cee6a08d92d9e',1,'OLED_Display::OLED_Display()']]],
+  ['onepixelbuf_7',['onePixelBuf',['../class_adafruit___s_p_i_t_f_t.html#a90d684bfcca2ac69cefe10a407861c73',1,'Adafruit_SPITFT']]],
+  ['open_20source_20license_8',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['org_5f01_2eh_9',['Org_01.h',['../_org__01_8h.html',1,'']]],
+  ['original_20source_10',['Original source',['../index.html#autotoc_md6',1,'']]],
+  ['own_20font_20header_20files_11',['STEP 4: Create your own font header files',['../md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html#autotoc_md15',1,'']]],
+  ['own_20fonts_20using_20mingw_12',['A short guide to use fontconvert.c to create your own fonts using MinGW.',['../md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html',1,'']]]
 ];

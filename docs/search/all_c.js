@@ -1,17 +1,9 @@
 var searchData=
 [
-  ['main_0',['main',['../namespacemake__splash.html#a7fc8554c059b3fbcb83f82317a6013d0',1,'make_splash.main()'],['../fontconvert_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;fontconvert.c']]],
-  ['make_5fsplash_1',['make_splash',['../namespacemake__splash.html',1,'']]],
-  ['make_5fsplash_2epy_2',['make_splash.py',['../make__splash_8py.html',1,'']]],
-  ['maxbuffersize_3',['maxBufferSize',['../class_adafruit___i2_c_device.html#a20c6ac28cbaa9e5f63ef6d4687fd4e60',1,'Adafruit_I2CDevice']]],
-  ['maxfilllen_4',['maxFillLen',['../class_adafruit___s_p_i_t_f_t.html#a2807d7d56cb631202f8074f23b2d6cb0',1,'Adafruit_SPITFT']]],
-  ['misopinmask_5',['misoPinMask',['../class_adafruit___s_p_i_device.html#a52686e958a67d1fa6f32dcbe97ac8e40',1,'Adafruit_SPIDevice::misoPinMask()'],['../class_adafruit___s_p_i_t_f_t.html#a2ed68db1d8eb89e783857e0fbad54b72',1,'Adafruit_SPITFT::misoPinMask()']]],
-  ['misoport_6',['misoPort',['../class_adafruit___s_p_i_device.html#a7e2721cd991b997b07810c22862ba8a5',1,'Adafruit_SPIDevice::misoPort()'],['../class_adafruit___s_p_i_t_f_t.html#ac6bf3f21af4abf183f6118b6af0a4c4e',1,'Adafruit_SPITFT::misoPort()']]],
-  ['mosipin_7',['mosiPin',['../class_adafruit___s_s_d1306.html#a6cb1a45ae527d3b5aaf4777d572e103c',1,'Adafruit_SSD1306']]],
-  ['mosipinmask_8',['mosiPinMask',['../class_adafruit___s_p_i_t_f_t.html#a67ed0aa3ec81d6bab38333e30758bb05',1,'Adafruit_SPITFT::mosiPinMask()'],['../class_adafruit___s_p_i_device.html#a0f680ec4e8db38d226e4c7c80bd5c929',1,'Adafruit_SPIDevice::mosiPinMask()'],['../class_adafruit___s_s_d1306.html#a6142fc4c3590c02e136071650dd331ef',1,'Adafruit_SSD1306::mosiPinMask()']]],
-  ['mosipinmaskclr_9',['mosiPinMaskClr',['../class_adafruit___s_p_i_t_f_t.html#ab6deb2a0abfe188f5a9723f5958b503d',1,'Adafruit_SPITFT']]],
-  ['mosipinmaskset_10',['mosiPinMaskSet',['../class_adafruit___s_p_i_t_f_t.html#af2c521975208f3753d7018358a7bc178',1,'Adafruit_SPITFT']]],
-  ['mosiport_11',['mosiPort',['../class_adafruit___s_p_i_t_f_t.html#abc52ab02439c361252146943f37e9c74',1,'Adafruit_SPITFT::mosiPort()'],['../class_adafruit___s_p_i_device.html#a7fc089e2c00d81e5adb68c1b3dfd5ef0',1,'Adafruit_SPIDevice::mosiPort()'],['../class_adafruit___s_s_d1306.html#a259e1817bc4b205d247a3a195466a974',1,'Adafruit_SSD1306::mosiPort()']]],
-  ['mosiportclr_12',['mosiPortClr',['../class_adafruit___s_p_i_t_f_t.html#a20379684524f2240afeb335b681495da',1,'Adafruit_SPITFT']]],
-  ['mosiportset_13',['mosiPortSet',['../class_adafruit___s_p_i_t_f_t.html#ac91a7dd390605ee9f86da279cfb6c8d2',1,'Adafruit_SPITFT']]]
+  ['hardware_20design_0',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['have_20fun_1',['Have fun!',['../index.html#autotoc_md8',1,'']]],
+  ['header_20files_2',['STEP 4: Create your own font header files',['../md_src_2libs_2_adafruit-_g_f_x-_library_2fontconvert_2fontconvert__win.html#autotoc_md15',1,'']]],
+  ['height_3',['HEIGHT',['../class_adafruit___g_f_x.html#a2b7801fc9c405a61abe6e5916b55825b',1,'Adafruit_GFX']]],
+  ['height_4',['height',['../struct_g_f_xglyph.html#a24cff650b78fc295dc46e1bfa9127bb7',1,'GFXglyph::height'],['../class_adafruit___g_f_x.html#a49da524caa19e5202ed2ed7fd5a3baea',1,'Adafruit_GFX::height()']]],
+  ['hwspi_5',['hwspi',['../class_adafruit___s_p_i_t_f_t.html#a82ce49aa97db1a1756a2153a118ad955',1,'Adafruit_SPITFT']]]
 ];

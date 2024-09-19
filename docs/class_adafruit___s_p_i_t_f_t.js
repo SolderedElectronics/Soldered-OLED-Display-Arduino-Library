@@ -13,7 +13,6 @@ var class_adafruit___s_p_i_t_f_t =
     [ "drawPixel", "class_adafruit___s_p_i_t_f_t.html#a5e118fc9c0fb141c8ee9f14e49f20704", null ],
     [ "drawRGBBitmap", "class_adafruit___s_p_i_t_f_t.html#ad1d249d742f83ddc4c4f3867643d6eb0", null ],
     [ "drawRGBBitmap", "class_adafruit___s_p_i_t_f_t.html#af90e317367f3ac6dae3aa46d549ca535", null ],
-    [ "drawRGBBitmap", "class_adafruit___s_p_i_t_f_t.html#a70768127ee8548d2a3690440c1694169", null ],
     [ "drawRGBBitmap", "class_adafruit___s_p_i_t_f_t.html#aac6f64d394f8d3557aa6f613b4219866", null ],
     [ "drawRGBBitmap", "class_adafruit___s_p_i_t_f_t.html#aa2984b1d3854ed521259cd8208071b55", null ],
     [ "endWrite", "class_adafruit___s_p_i_t_f_t.html#a65f00bcb36ed34e9f8fb72d45c6d0cad", null ],
