@@ -6,11 +6,11 @@
 
 | ![Display OLED I2C White 0.96" SSD1306](https://github.com/SolderedElectronics/Display-OLED-I2C-White-0.96-hardware-design/blob/main/OUTPUTS/V1.2.2/333099.jpg) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Display OLED I2C White 0.96" SSD1306](https://www.solde.red/333099) |
+| [Display OLED I2C White 0.96" SSD1306](https://solde.red/333099) |
 
 | ![Display OLED I2C Blue 0.96" SSD1306](https://github.com/SolderedElectronics/Display-OLED-I2C-Blue-0.96-hardware-design/blob/main/OUTPUTS/V1.2.2/333100.jpg) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                              [Display OLED I2C Blue 0.96" SSD1306](https://www.solde.red/333100)                                              |
+|                                              [Display OLED I2C Blue 0.96" SSD1306](https://solde.red/333100)                                              |
 
 Looking to add visuals to your Arduino projects? The I2C OLED breakout board is perfect for that. Because of its high contrast, you will be in awe of its crispness! The display is made from hundreds of LEDs, each representing one pixel in a 128x64 grid. Thus, it doesn't need any backlight, and it needs less power than the classic LCD screens. That’s 8192 pixels all individually lit at your fingertips!
 
@@ -24,7 +24,7 @@ The design is 5V ready with an onboard regulator, so is compatible with any 3.3V
 - Communication: I2C (address: 0x3C)
 - Connectors: easyC x2
 - Pixel color: white
-- Mounting holes: 2 (https://www.soldered.com/en/easyC)
+- Mounting holes: 2 (https://www.soldered.com/easyC)
 
 Looking to add visuals to your Arduino projects? The I2C OLED breakout board is perfect for that. Because of its high contrast, you will be in awe of its crispness! The display is made from hundreds of LEDs, each representing one pixel in a 128x64 grid. Thus, it doesn't need any backlight, and it needs less power than the classic LCD screens. That’s 8192 pixels all individually lit at your fingertips!
 
